@@ -27,3 +27,15 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+target/classes/org/example/arge/CarSkeleton.class
+target/classes/org/example/arge/ElectricCar.class
+target/classes/org/example/arge/GasPoweredCar.class
+target/classes/org/example/arge/HybridCar.class
+target/classes/org/example/company/Car.class
+target/classes/org/example/company/Ford.class
+target/classes/org/example/company/Holden.class
+target/classes/org/example/company/Mitsubishi.class
+target/classes/org/example/Main.class
+target/test-classes/MainTest.class
+target/test-classes/ResultAnalyzer$TestResultStatus.class
+target/test-classes/ResultAnalyzer.class
